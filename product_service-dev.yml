@@ -4,7 +4,7 @@ property-file:
   description: Dev environment for product
 #Application Configuration
 server:
-  port: 8091
+  port: 8771
   error:
     include-message: always
     include-binding-errors: always
